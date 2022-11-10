@@ -1,5 +1,6 @@
 # Lebenslauf
 
+![Foto](./profile_image.png "Bewerbungsfoto")
 
 ### Persönliche Daten
 * Vorname: Max
