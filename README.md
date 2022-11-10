@@ -1,5 +1,6 @@
 # Lebenslauf
 
+<img style="float: right;" src="profile_image.png" alt="Bewerbungsfoto" width = "200">
 
 ### Persönliche Daten
 * Vorname: Max
